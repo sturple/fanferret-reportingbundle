@@ -1,0 +1,4 @@
+services:
+#    fan_ferret_reporting.example:
+#        class: FanFerret\ReportingBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

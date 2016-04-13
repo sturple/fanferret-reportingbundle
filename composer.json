@@ -1,0 +1,24 @@
+{
+    "name": "sturple/fanferret-reportingbundle",
+    "description": "Reporting Bundle",
+    "type": "symfony-bundle",
+    "keywords": ["survey", "hotel", "symfony"],
+    "homepage": "https://github.com/sturple/fanferret-reportingbundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shawn Turple",
+            "email": "shawn@turple.ca"
+        }
+    ],
+    "require": {
+
+    },
+    "minimum-stability": "dev",
+    "target-dir": "FanFerret/Bundle/ReportingBundle",
+    "autoload" : {
+        "psr-0" : {"FanFerret\\Bundle\\ReportingBundle" : ""}
+    }
+
+
+}
